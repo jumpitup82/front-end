@@ -10,3 +10,6 @@
   * The origins of the term single-page application are unclear, though the concept was discussed at least as early as 2003.[3] Stuart (stunix) Morris wrote the Self-Contained website at slashdotslash.com with the same goals and functions in April 2002[4] and later the same year, Lucas Birdeau, Kevin Hakman, Michael Peachey and Evan Yeh described a single page application implementation in the US patent 8,136,109.
 JavaScript can be used in a web browser to display the user interface (UI), run application logic, and communicate with a web server. Mature open-source libraries are available that support the building of an SPA, reducing the amount of JavaScript code the developer has to write.
   * 용어의 출처는 불분명
+* 기술적 접근
+  * Thin server architecture
+    * 로직이 서버에서 클라이언트로 이동
