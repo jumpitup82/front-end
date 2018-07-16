@@ -13,3 +13,5 @@ JavaScript can be used in a web browser to display the user interface (UI), run 
 * 기술적 접근
   * Thin server architecture
     * 로직이 서버에서 클라이언트로 이동
+    * 웹서버가 순수한 데이터 API 혹은 웹서비스로 발전할 수 있게 함
+    * MSA와 관련...
