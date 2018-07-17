@@ -23,4 +23,4 @@ JavaScript can be used in a web browser to display the user interface (UI), run 
 * 검색엔진 최적화
   * Javascript 실행의 부족(동일 페이지에 대한)으로 인해 검색엔진에 제대로 검색되지 않는 단점이 있음
   * 검색엔진에 따른 최적화방법을 개별적으로 적용
-    - Naver: [Syndication link](#https://webmastertool.naver.com/index.naver)
+    - Naver: [Syndication link](https://webmastertool.naver.com/index.naver)
