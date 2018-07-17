@@ -15,3 +15,12 @@ JavaScript can be used in a web browser to display the user interface (UI), run 
     * 로직이 서버에서 클라이언트로 이동
     * 웹서버가 순수한 데이터 API 혹은 웹서비스로 발전할 수 있게 함
     * MSA와 관련...
+  * Thick Stateful Server Architecture
+    * 서버에 클라이언트의 상태를 저장
+    * 서버에 특정 요청이 돋ㄹ하면, 서버는 HTML/Javascript 등을 송신하여 클라이언트를 새로운 상태로 변경
+  * Thick Stateless Server Architecture
+    * 클라이언트는 대개 Ajax를 통해 서버에 현재상태를 나타내는 데이터를 송신하고, 서버는 클라이언트의 일부를 수정할 수 있는 데이터 혹은 코드를 송신
+* 검색엔진 최적화
+  * Javascript 실행의 부족(동일 페이지에 대한)으로 인해 검색엔진에 제대로 검색되지 않는 단점이 있음
+  * 검색엔진에 따른 최적화방법을 개별적으로 적용
+    - Naver: [Syndication link](#https://webmastertool.naver.com/index.naver)
