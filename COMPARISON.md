@@ -10,6 +10,7 @@
 
 ## React.js
 * Virtual DOM
+  * [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 * 생태계
 * Custom Renderer
 
